@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Bike-Sales-Dashboard-Using-MS Excel
 This project involves an interactive dashboard created in Excel to analyze bike sales data across different demographics, including region, gender, age group, and income level. The dashboard provides valuable insights into sales trends, helping to identify key factors that influence bike purchases.
 
 ## Objective:
@@ -27,6 +27,7 @@ Interactive Charts: Includes bar charts, pie charts, and line graphs that make i
 
 
 ## Dashboard
-- <a href="https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Screenshot%202025-01-24%20185724.png">Final_Dashboard</a>
+![Screenshot 2025-01-24 185724](https://github.com/user-attachments/assets/437d325e-a6c5-4de0-aaa6-efbb72adeedf)
+
 ## Full Project
 - <a href="https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Bike_Sales_Project.xlsx">FullProject</a>
