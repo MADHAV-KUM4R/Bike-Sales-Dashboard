@@ -10,8 +10,11 @@ To offer a user-friendly and intuitive interface for business stakeholders to ma
 
 ## Key Highlight:
 Data Filtering: Users can filter the data based on various criteria like region, gender, age group, and income level to gain detailed insights into bike sales patterns.
+
 Sales Performance Visualization: The dashboard displays key metrics such as total sales, average sales per region, and sales distribution by gender, age group, and income.
+
 Trends & Insights: The dashboard helps visualize trends over time, with dynamic charts showing how sales vary by demographic factors.
+
 Interactive Charts: Includes bar charts, pie charts, and line graphs that make it easier to understand data distributions and trends.
 
 ## Process
